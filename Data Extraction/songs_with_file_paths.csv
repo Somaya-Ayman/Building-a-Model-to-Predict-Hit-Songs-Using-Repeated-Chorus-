@@ -1,0 +1,500 @@
+title,artist,rank,year,popularity,file_path
+God's Plan,Drake,1,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\God's Plan.mp3
+Perfect,Ed Sheeran,2,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Perfect.mp3
+Meant To Be,Bebe Rexha & Florida Georgia Line,3,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Meant To Be.mp3
+Havana,Camila Cabello Featuring Young Thug,4,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Havana.mp3
+Rockstar,Post Malone Featuring 21 Savage,5,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Rockstar.mp3
+Psycho,Post Malone Featuring Ty Dolla $ign,6,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Psycho.mp3
+I Like It,"Cardi B, Bad Bunny & J Balvin",7,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\I Like It.mp3
+The Middle,"Zedd, Maren Morris & Grey",8,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\The Middle.mp3
+In My Feelings,Drake,9,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\In My Feelings.mp3
+Girls Like You,Maroon 5 Featuring Cardi B,10,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Girls Like You.mp3
+Nice For What,Drake,11,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Nice For What.mp3
+Lucid Dreams,Juice WRLD,12,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Lucid Dreams.mp3
+Better Now,Post Malone,13,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Better Now.mp3
+Finesse,Bruno Mars & Cardi B,14,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Finesse.mp3
+Boo'd Up,Ella Mai,15,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Boo'd Up.mp3
+New Rules,Dua Lipa,16,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\New Rules.mp3
+Sad!,XXXTENTACION,17,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Sad!.mp3
+Never Be The Same,Camila Cabello,18,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Never Be The Same.mp3
+Love Lies,Khalid & Normani,19,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Love Lies.mp3
+No Tears Left To Cry,Ariana Grande,20,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\No Tears Left To Cry.mp3
+Mine,Bazzi,21,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Mine.mp3
+Thunder,Imagine Dragons,22,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Thunder.mp3
+Look Alive,BlocBoy JB Featuring Drake,23,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Look Alive.mp3
+Delicate,Taylor Swift,24,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Delicate.mp3
+Yes Indeed,Lil Baby & Drake,25,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Yes Indeed.mp3
+Friends,Marshmello & Anne-Marie,26,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Friends.mp3
+Bad At Love,Halsey,27,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Bad At Love.mp3
+Taste,Tyga Featuring Offset,28,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Taste.mp3
+Let You Down,NF,29,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Let You Down.mp3
+No Limit,G-Eazy Featuring A$AP Rocky & Cardi B,30,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\No Limit.mp3
+FEFE,6ix9ine Featuring Nicki Minaj & Murda Beatz,31,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\FEFE.mp3
+Tequila,Dan + Shay,32,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Tequila.mp3
+Feel It Still,Portugal. The Man,33,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Feel It Still.mp3
+MotorSport,"Migos, Nicki Minaj & Cardi B",34,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\MotorSport.mp3
+I Like Me Better,Lauv,35,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\I Like Me Better.mp3
+Youngblood,5 Seconds Of Summer,36,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Youngblood.mp3
+Whatever It Takes,Imagine Dragons,37,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Whatever It Takes.mp3
+Ric Flair Drip,Offset & Metro Boomin,38,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Ric Flair Drip.mp3
+I Fall Apart,Post Malone,39,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\I Fall Apart.mp3
+Pray For Me,The Weeknd & Kendrick Lamar,40,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Pray For Me.mp3
+Back To You,Selena Gomez,41,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Back To You.mp3
+Sicko Mode,Travis Scott,42,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Sicko Mode.mp3
+Walk It Talk It,Migos Featuring Drake,43,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Walk It Talk It.mp3
+Gucci Gang,Lil Pump,44,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Gucci Gang.mp3
+Him & I,G-Eazy & Halsey,45,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Him & I.mp3
+In My Blood,Shawn Mendes,46,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\In My Blood.mp3
+All The Stars,Kendrick Lamar & SZA,47,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\All The Stars.mp3
+Stir Fry,Migos,48,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Stir Fry.mp3
+Too Good At Goodbyes,Sam Smith,49,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Too Good At Goodbyes.mp3
+Love.,Kendrick Lamar Featuring Zacari,50,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Love..mp3
+This Is America,Childish Gambino,51,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\This Is America.mp3
+Nonstop,Drake,52,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Nonstop.mp3
+Heaven,Kane Brown,53,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Heaven.mp3
+Bodak Yellow (Money Moves),Cardi B,54,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Bodak Yellow (Money Moves).mp3
+Freaky Friday,Lil Dicky Featuring Chris Brown,55,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Freaky Friday.mp3
+Gummo,6ix9ine,56,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Gummo.mp3
+Plug Walk,Rich The Kid,57,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Plug Walk.mp3
+Wait,Maroon 5,58,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Wait.mp3
+Be Careful,Cardi B,59,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Be Careful.mp3
+Wolves,Selena Gomez X Marshmello,60,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Wolves.mp3
+Bartier Cardi,Cardi B Featuring 21 Savage,61,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Bartier Cardi.mp3
+God Is A Woman,Ariana Grande,62,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\God Is A Woman.mp3
+Big Bank,"YG Featuring 2 Chainz, Big Sean & Nicki Minaj",63,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Big Bank.mp3
+Sorry Not Sorry,Demi Lovato,64,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Sorry Not Sorry.mp3
+How Long,Charlie Puth,65,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\How Long.mp3
+Lights Down Low,MAX Featuring gnash,66,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Lights Down Low.mp3
+Young Dumb & Broke,Khalid,67,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Young Dumb & Broke.mp3
+One Kiss,Calvin Harris & Dua Lipa,68,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\One Kiss.mp3
+Natural,Imagine Dragons,69,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Natural.mp3
+You Make It Easy,Jason Aldean,70,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\You Make It Easy.mp3
+Shape Of You,Ed Sheeran,71,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Shape Of You.mp3
+I Get The Bag,Gucci Mane Featuring Migos,72,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\I Get The Bag.mp3
+No Brainer,"DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo",73,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\No Brainer.mp3
+Plain Jane,A$AP Ferg Featuring Nicki Minaj,74,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Plain Jane.mp3
+Sky Walker,Miguel Featuring Travis Scott,75,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Sky Walker.mp3
+Marry Me,Thomas Rhett,76,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Marry Me.mp3
+Eastside,"benny blanco, Halsey & Khalid",77,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Eastside.mp3
+Call Out My Name,The Weeknd,78,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Call Out My Name.mp3
+King's Dead,"Jay Rock, Kendrick Lamar, Future & James Blake",79,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\King's Dead.mp3
+Happier,Marshmello & Bastille,80,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Happier.mp3
+Te Bote,"Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny",81,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Te Bote.mp3
+Simple,Florida Georgia Line,82,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Simple.mp3
+Lemon,N*E*R*D & Rihanna,83,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Lemon.mp3
+1-800-273-8255,Logic Featuring Alessia Cara & Khalid,84,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\1-800-273-8255.mp3
+Say Something,Justin Timberlake Featuring Chris Stapleton,85,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Say Something.mp3
+I'm Upset,Drake,86,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\I'm Upset.mp3
+Get Along,Kenny Chesney,87,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Get Along.mp3
+Moonlight,XXXTENTACION,88,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Moonlight.mp3
+What Lovers Do,Maroon 5 Featuring SZA,89,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\What Lovers Do.mp3
+X,Nicky Jam x J Balvin,90,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\X.mp3
+Outside Today,YoungBoy Never Broke Again,91,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Outside Today.mp3
+Trip,Ella Mai,92,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Trip.mp3
+Dura,Daddy Yankee,93,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Dura.mp3
+Changes,XXXTENTACION,94,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Changes.mp3
+Mercy,Brett Young,95,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Mercy.mp3
+One Number Away,Luke Combs,96,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\One Number Away.mp3
+Powerglide,Rae Sremmurd & Juicy J,97,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Powerglide.mp3
+IDGAF,Dua Lipa,98,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\IDGAF.mp3
+Mi Gente,J Balvin & Willy William Featuring Beyonce,99,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Mi Gente.mp3
+Believer,Imagine Dragons,100,2018,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Believer.mp3
+Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,1,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Old Town Road.mp3
+Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,2,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Sunflower (Spider-Man: Into The Spider-Verse).mp3
+Without Me,Halsey,3,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Without Me.mp3
+Bad Guy,Billie Eilish,4,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Bad Guy.mp3
+Wow.,Post Malone,5,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Wow..mp3
+Happier,Marshmello & Bastille,6,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Happier.mp3
+7 Rings,Ariana Grande,7,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\7 Rings.mp3
+Talk,Khalid,8,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Talk.mp3
+Sicko Mode,Travis Scott,9,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Sicko Mode.mp3
+Sucker,Jonas Brothers,10,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Sucker.mp3
+High Hopes,Panic! At The Disco,11,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\High Hopes.mp3
+"Thank U, Next",Ariana Grande,12,2019,Not Popular,"C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Thank U, Next.mp3"
+Truth Hurts,Lizzo,13,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Truth Hurts.mp3
+Dancing With A Stranger,Sam Smith & Normani,14,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Dancing With A Stranger.mp3
+Senorita,Shawn Mendes & Camila Cabello,15,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Senorita.mp3
+I Don't Care,Ed Sheeran & Justin Bieber,16,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\I Don't Care.mp3
+Eastside,"benny blanco, Halsey & Khalid",17,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Eastside.mp3
+Going Bad,Meek Mill Featuring Drake,18,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Going Bad.mp3
+Shallow,Lady Gaga & Bradley Cooper,19,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Shallow.mp3
+Better,Khalid,20,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Better.mp3
+No Guidance,Chris Brown Featuring Drake,21,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\No Guidance.mp3
+Girls Like You,Maroon 5 Featuring Cardi B,22,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Girls Like You.mp3
+Sweet But Psycho,Ava Max,23,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Sweet But Psycho.mp3
+Suge,DaBaby,24,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Suge.mp3
+Middle Child,J. Cole,25,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Middle Child.mp3
+Drip Too Hard,Lil Baby & Gunna,26,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Drip Too Hard.mp3
+Someone You Loved,Lewis Capaldi,27,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Someone You Loved.mp3
+Ran$om,Lil Tecca,28,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Ran$om.mp3
+If I Can't Have You,Shawn Mendes,29,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\If I Can't Have You.mp3
+Goodbyes,Post Malone Featuring Young Thug,30,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Goodbyes.mp3
+ZEZE,Kodak Black Featuring Travis Scott & Offset,31,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\ZEZE.mp3
+Better Now,Post Malone,32,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Better Now.mp3
+Youngblood,5 Seconds Of Summer,33,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Youngblood.mp3
+Money In The Grave,Drake Featuring Rick Ross,34,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Money In The Grave.mp3
+Speechless,Dan + Shay,35,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Speechless.mp3
+"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,36,2019,Not Popular,"C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Break Up With Your Girlfriend, I'm Bored.mp3"
+Please Me,Cardi B & Bruno Mars,37,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Please Me.mp3
+Money,Cardi B,38,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Money.mp3
+You Need To Calm Down,Taylor Swift,39,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\You Need To Calm Down.mp3
+Panini,Lil Nas X,40,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Panini.mp3
+Look Back At It,A Boogie Wit da Hoodie,41,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Look Back At It.mp3
+A Lot,21 Savage,42,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\A Lot.mp3
+ME!,Taylor Swift Featuring Brendon Urie,43,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\ME!.mp3
+MIA,Bad Bunny Featuring Drake,44,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\MIA.mp3
+Pop Out,Polo G Featuring Lil Tjay,45,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Pop Out.mp3
+Beautiful Crazy,Luke Combs,46,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Beautiful Crazy.mp3
+Thotiana,Blueface,47,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Thotiana.mp3
+Lucid Dreams,Juice WRLD,48,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Lucid Dreams.mp3
+Mo Bamba,Sheck Wes,49,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Mo Bamba.mp3
+Beautiful People,Ed Sheeran Featuring Khalid,50,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Beautiful People.mp3
+Wake Up In The Sky,Gucci Mane X Bruno Mars X Kodak Black,51,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Wake Up In The Sky.mp3
+Whiskey Glasses,Morgan Wallen,52,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Whiskey Glasses.mp3
+God's Country,Blake Shelton,53,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\God's Country.mp3
+Be Alright,Dean Lewis,54,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Be Alright.mp3
+Pure Water,Mustard & Migos,55,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Pure Water.mp3
+The Git Up,Blanco Brown,56,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\The Git Up.mp3
+Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",57,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Taki Taki.mp3
+Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,58,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Close To Me.mp3
+Envy Me,Calboy,59,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Envy Me.mp3
+You Say,Lauren Daigle,60,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\You Say.mp3
+"Hey Look Ma, I Made It",Panic! At The Disco,61,2019,Not Popular,"C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Hey Look Ma, I Made It.mp3"
+Circles,Post Malone,62,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Circles.mp3
+Beer Never Broke My Heart,Luke Combs,63,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Beer Never Broke My Heart.mp3
+The London,"Young Thug, J. Cole & Travis Scott",64,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\The London.mp3
+Con Calma,Daddy Yankee & Katy Perry Featuring Snow,65,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Con Calma.mp3
+Murder On My Mind,YNW Melly,66,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Murder On My Mind.mp3
+When The Party's Over,Billie Eilish,67,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\When The Party's Over.mp3
+Act Up,City Girls,68,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Act Up.mp3
+I Like It,"Cardi B, Bad Bunny & J Balvin",69,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\I Like It.mp3
+Trampoline,SHAED,70,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Trampoline.mp3
+Leave Me Alone,Flipp Dinero,71,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Leave Me Alone.mp3
+Breathin,Ariana Grande,72,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Breathin.mp3
+Bury A Friend,Billie Eilish,73,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Bury A Friend.mp3
+Close Friends,Lil Baby,74,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Close Friends.mp3
+Baby Shark,Pinkfong,75,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Baby Shark.mp3
+My Type,Saweetie,76,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\My Type.mp3
+Worth It,YK Osiris,77,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Worth It.mp3
+Only Human,Jonas Brothers,78,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Only Human.mp3
+Knockin' Boots,Luke Bryan,79,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Knockin' Boots.mp3
+Trip,Ella Mai,80,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Trip.mp3
+Rumor,Lee Brice,81,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Rumor.mp3
+Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,82,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Swervin.mp3
+How Do You Sleep?,Sam Smith,83,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\How Do You Sleep?.mp3
+Baby,Lil Baby & DaBaby,84,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Baby.mp3
+Look What God Gave Her,Thomas Rhett,85,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Look What God Gave Her.mp3
+Good As You,Kane Brown,86,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Good As You.mp3
+Clout,Offset Featuring Cardi B,87,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Clout.mp3
+Love Lies,Khalid & Normani,88,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Love Lies.mp3
+One Thing Right,Marshmello & Kane Brown,89,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\One Thing Right.mp3
+Cash Shit,Megan Thee Stallion Featuring DaBaby,90,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Cash Shit.mp3
+Tequila,Dan + Shay,91,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Tequila.mp3
+Shotta Flow,NLE Choppa,92,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Shotta Flow.mp3
+Hot Girl Summer,"Megan Thee Stallion, Nicki Minaj & Ty Dolla $ign",93,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Hot Girl Summer.mp3
+Talk You Out Of It,Florida Georgia Line,94,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Talk You Out Of It.mp3
+Beautiful,Bazzi Featuring Camila Cabello,95,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Beautiful.mp3
+Eyes On You,Chase Rice,96,2019,Not Popular,
+All To Myself,Dan + Shay,97,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\All To Myself.mp3
+Boyfriend,Ariana Grande & Social House,98,2019,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Boyfriend.mp3
+Walk Me Home,P!nk,99,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Walk Me Home.mp3
+Robbery,Juice WRLD,100,2019,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Robbery.mp3
+Blinding Lights,The Weeknd,1,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Blinding Lights.mp3
+Circles,Post Malone,2,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Circles.mp3
+The Box,Roddy Ricch,3,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\The Box.mp3
+Don't Start Now,Dua Lipa,4,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Don't Start Now.mp3
+Rockstar,DaBaby Featuring Roddy Ricch,5,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Rockstar.mp3
+Adore You,Harry Styles,6,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Adore You.mp3
+Life Is Good,Future Featuring Drake,7,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Life Is Good.mp3
+Memories,Maroon 5,8,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Memories.mp3
+The Bones,Maren Morris,9,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\The Bones.mp3
+Someone You Loved,Lewis Capaldi,10,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Someone You Loved.mp3
+Say So,Doja Cat,11,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Say So.mp3
+I Hope,Gabby Barrett Featuring Charlie Puth,12,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\I Hope.mp3
+Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",13,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Whats Poppin.mp3
+Dance Monkey,Tones And I,14,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Dance Monkey.mp3
+Savage,Megan Thee Stallion,15,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Savage.mp3
+Roxanne,Arizona Zervas,16,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Roxanne.mp3
+Intentions,Justin Bieber Featuring Quavo,17,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Intentions.mp3
+Everything I Wanted,Billie Eilish,18,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Everything I Wanted.mp3
+Roses,SAINt JHN,19,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Roses.mp3
+Watermelon Sugar,Harry Styles,20,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Watermelon Sugar.mp3
+Before You Go,Lewis Capaldi,21,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Before You Go.mp3
+Falling,Trevor Daniel,22,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Falling.mp3
+"10,000 Hours",Dan + Shay & Justin Bieber,23,2020,Not Popular,"C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\10,000 Hours.mp3"
+WAP,Cardi B Featuring Megan Thee Stallion,24,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\WAP.mp3
+Ballin',Mustard & Roddy Ricch,25,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Ballin'.mp3
+Hot Girl Bummer,blackbear,26,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Hot Girl Bummer.mp3
+Blueberry Faygo,Lil Mosey,27,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Blueberry Faygo.mp3
+Heartless,The Weeknd,28,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Heartless.mp3
+BOP,DaBaby,29,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\BOP.mp3
+Lose You To Love Me,Selena Gomez,30,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Lose You To Love Me.mp3
+Good As Hell,Lizzo,31,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Good As Hell.mp3
+Toosie Slide,Drake,32,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Toosie Slide.mp3
+Break My Heart,Dua Lipa,33,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Break My Heart.mp3
+Chasin' You,Morgan Wallen,34,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Chasin' You.mp3
+Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,35,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Savage Love (Laxed - Siren Beat).mp3
+No Guidance,Chris Brown Featuring Drake,36,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\No Guidance.mp3
+My Oh My,Camila Cabello Featuring DaBaby,37,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\My Oh My.mp3
+Dynamite,BTS,38,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Dynamite.mp3
+Go Crazy,Chris Brown & Young Thug,39,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Go Crazy.mp3
+High Fashion,Roddy Ricch Featuring Mustard,40,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\High Fashion.mp3
+Laugh Now Cry Later,Drake Featuring Lil Durk,41,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Laugh Now Cry Later.mp3
+Woah,Lil Baby,42,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Woah.mp3
+Death Bed,Powfu Featuring beabadoobee,43,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Death Bed.mp3
+Senorita,Shawn Mendes & Camila Cabello,44,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Senorita.mp3
+HIGHEST IN THE ROOM,Travis Scott,45,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\HIGHEST IN THE ROOM.mp3
+Bad Guy,Billie Eilish,46,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Bad Guy.mp3
+Mood,24kGoldn Featuring iann dior,47,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Mood.mp3
+Rain On Me,Lady Gaga & Ariana Grande,48,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Rain On Me.mp3
+For The Night,Pop Smoke Featuring Lil Baby & DaBaby,49,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\For The Night.mp3
+RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,50,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\RITMO (Bad Boys For Life).mp3
+Heart On Ice,Rod Wave,51,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Heart On Ice.mp3
+Nobody But You,Blake Shelton Duet With Gwen Stefani,52,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Nobody But You.mp3
+Trampoline,SHAED,53,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Trampoline.mp3
+Come & Go,Juice WRLD x Marshmello,54,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Come & Go.mp3
+Truth Hurts,Lizzo,55,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Truth Hurts.mp3
+If The World Was Ending,JP Saxe Featuring Julia Michaels,56,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\If The World Was Ending.mp3
+We Paid,Lil Baby & 42 Dugg,57,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\We Paid.mp3
+Yummy,Justin Bieber,58,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Yummy.mp3
+One Man Band,Old Dominion,59,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\One Man Band.mp3
+Got What I Got,Jason Aldean,60,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Got What I Got.mp3
+Sunday Best,Surfaces,61,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Sunday Best.mp3
+Godzilla,Eminem Featuring Juice WRLD,62,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Godzilla.mp3
+Bandit,Juice WRLD & YoungBoy Never Broke Again,63,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Bandit.mp3
+Party Girl,StaySolidRocky,64,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Party Girl.mp3
+Die From A Broken Heart,Maddie & Tae,65,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Die From A Broken Heart.mp3
+Popstar,DJ Khaled Featuring Drake,66,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Popstar.mp3
+All I Want For Christmas Is You,Mariah Carey,67,2020,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\All I Want For Christmas Is You.mp3
+One Of Them Girls,Lee Brice,68,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\One Of Them Girls.mp3
+Hard To Forget,Sam Hunt,69,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Hard To Forget.mp3
+One Margarita,Luke Bryan,70,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\One Margarita.mp3
+Panini,Lil Nas X,71,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Panini.mp3
+Hot,Young Thug Featuring Gunna,72,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Hot.mp3
+I Hope You're Happy Now,Carly Pearce & Lee Brice,73,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\I Hope You're Happy Now.mp3
+Emotionally Scarred,Lil Baby,74,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Emotionally Scarred.mp3
+Suicidal,YNW Melly & Juice WRLD,75,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Suicidal.mp3
+The Bigger Picture,Lil Baby,76,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\The Bigger Picture.mp3
+Only Human,Jonas Brothers,77,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Only Human.mp3
+The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,78,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\The Woo.mp3
+Sum 2 Prove,Lil Baby,79,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Sum 2 Prove.mp3
+Stuck With U,Ariana Grande & Justin Bieber,80,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Stuck With U.mp3
+Mood Swings,Pop Smoke Featuring Lil Tjay,81,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Mood Swings.mp3
+You Should Be Sad,Halsey,82,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\You Should Be Sad.mp3
+Dior,Pop Smoke,83,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Dior.mp3
+Supalonely,BENEE Featuring Gus Dapperton,84,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Supalonely.mp3
+Even Though I'm Leaving,Luke Combs,85,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Even Though I'm Leaving.mp3
+The Scotts,"THE SCOTTS, Travis Scott & Kid Cudi",86,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\The Scotts.mp3
+Juicy,Doja Cat & Tyga,87,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Juicy.mp3
+Be Like That,Kane Brown With Swae Lee & Khalid,88,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Be Like That.mp3
+Homesick,Kane Brown,89,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Homesick.mp3
+Rags2Riches,Rod Wave Featuring ATR Son Son,90,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Rags2Riches.mp3
+Bluebird,Miranda Lambert,91,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Bluebird.mp3
+Wishing Well,Juice WRLD,92,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Wishing Well.mp3
+Does To Me,Luke Combs Featuring Eric Church,93,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Does To Me.mp3
+P*$$y Fairy (OTW),Jhene Aiko,94,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\P*$$y Fairy (OTW).mp3
+ily,Surf Mesa Featuring Emilee,95,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\ily.mp3
+More Than My Hometown,Morgan Wallen,96,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\More Than My Hometown.mp3
+Lovin' On You,Luke Combs,97,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Lovin' On You.mp3
+Said Sum,Moneybagg Yo,98,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Said Sum.mp3
+Slide,H.E.R. Featuring YG,99,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Slide.mp3
+Walk Em Down,NLE Choppa Featuring Roddy Ricch,100,2020,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Walk Em Down.mp3
+Levitating,Dua Lipa,1,2021,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Levitating.mp3
+Save Your Tears,The Weeknd & Ariana Grande,2,2021,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Save Your Tears.mp3
+Blinding Lights,The Weeknd,3,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Blinding Lights.mp3
+Mood,24kGoldn Featuring iann dior,4,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Mood.mp3
+Good 4 U,Olivia Rodrigo,5,2021,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Good 4 U.mp3
+Kiss Me More,Doja Cat Featuring SZA,6,2021,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Kiss Me More.mp3
+Leave The Door Open,Silk Sonic (Bruno Mars & Anderson .Paak),7,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Leave The Door Open.mp3
+Drivers License,Olivia Rodrigo,8,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Drivers License.mp3
+Montero (Call Me By Your Name),Lil Nas X,9,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Montero (Call Me By Your Name).mp3
+Peaches,Justin Bieber Featuring Daniel Caesar & Giveon,10,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Peaches.mp3
+Butter,BTS,11,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Butter.mp3
+Stay,The Kid LAROI & Justin Bieber,12,2021,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Stay.mp3
+Deja Vu,Olivia Rodrigo,13,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Deja Vu.mp3
+Positions,Ariana Grande,14,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Positions.mp3
+Bad Habits,Ed Sheeran,15,2021,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Bad Habits.mp3
+Heat Waves,Glass Animals,16,2021,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Heat Waves.mp3
+Without You,The Kid LAROI,17,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Without You.mp3
+Forever After All,Luke Combs,18,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Forever After All.mp3
+Go Crazy,Chris Brown & Young Thug,19,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Go Crazy.mp3
+Astronaut In The Ocean,Masked Wolf,20,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Astronaut In The Ocean.mp3
+34+35,Ariana Grande Feat. Doja Cat & Megan Thee Stallion,21,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\34+35.mp3
+What You Know Bout Love,Pop Smoke,22,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\What You Know Bout Love.mp3
+My Ex's Best Friend,Machine Gun Kelly X blackbear,23,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\My Ex's Best Friend.mp3
+Industry Baby,Lil Nas X & Jack Harlow,24,2021,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Industry Baby.mp3
+Therefore I Am,Billie Eilish,25,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Therefore I Am.mp3
+Up,Cardi B,26,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Up.mp3
+Fancy Like,Walker Hayes,27,2021,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Fancy Like.mp3
+Dakiti,Bad Bunny & Jhay Cortez,28,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Dakiti.mp3
+Best Friend,Saweetie Featuring Doja Cat,29,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Best Friend.mp3
+Rapstar,Polo G,30,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Rapstar.mp3
+Heartbreak Anniversary,Giveon,31,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Heartbreak Anniversary.mp3
+For The Night,Pop Smoke Featuring Lil Baby & DaBaby,32,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\For The Night.mp3
+Calling My Phone,Lil Tjay Featuring 6LACK,33,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Calling My Phone.mp3
+Beautiful Mistakes,Maroon 5 Featuring Megan Thee Stallion,34,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Beautiful Mistakes.mp3
+Holy,Justin Bieber Featuring Chance The Rapper,35,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Holy.mp3
+On Me,Lil Baby,36,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\On Me.mp3
+You Broke Me First.,Tate McRae,37,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\You Broke Me First..mp3
+Traitor,Olivia Rodrigo,38,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Traitor.mp3
+Back In Blood,Pooh Shiesty Featuring Lil Durk,39,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Back In Blood.mp3
+I Hope,Gabby Barrett Featuring Charlie Puth,40,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\I Hope.mp3
+Dynamite,BTS,41,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Dynamite.mp3
+Wockesha,Moneybagg Yo,42,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Wockesha.mp3
+You Right,Doja Cat & The Weeknd,43,2021,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\You Right.mp3
+Beat Box,SpotemGottem Featuring Pooh Shiesty Or DaBaby,44,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Beat Box.mp3
+Laugh Now Cry Later,Drake Featuring Lil Durk,45,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Laugh Now Cry Later.mp3
+Need To Know,Doja Cat,46,2021,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Need To Know.mp3
+Wants And Needs,Drake Featuring Lil Baby,47,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Wants And Needs.mp3
+Way 2 Sexy,Drake Featuring Future & Young Thug,48,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Way 2 Sexy.mp3
+Telepatia,Kali Uchis,49,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Telepatia.mp3
+Whoopty,CJ,50,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Whoopty.mp3
+Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,51,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Lemonade.mp3
+Good Days,SZA,52,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Good Days.mp3
+Starting Over,Chris Stapleton,53,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Starting Over.mp3
+Body,Megan Thee Stallion,54,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Body.mp3
+Willow,Taylor Swift,55,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Willow.mp3
+Bang!,AJR,56,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Bang!.mp3
+Better Together,Luke Combs,57,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Better Together.mp3
+You're Mines Still,Yung Bleu Featuring Drake,58,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\You're Mines Still.mp3
+Every Chance I Get,DJ Khaled Featuring Lil Baby & Lil Durk,59,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Every Chance I Get.mp3
+Essence,Wizkid Featuring Justin Bieber & Tems,60,2021,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Essence.mp3
+Chasing After You,Ryan Hurd With Maren Morris,61,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Chasing After You.mp3
+The Good Ones,Gabby Barrett,62,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\The Good Ones.mp3
+Leave Before You Love Me,Marshmello X Jonas Brothers,63,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Leave Before You Love Me.mp3
+Glad You Exist,Dan + Shay,64,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Glad You Exist.mp3
+Lonely,Justin Bieber & benny blanco,65,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Lonely.mp3
+Beggin',Maneskin,66,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Beggin'.mp3
+Streets,Doja Cat,67,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Streets.mp3
+What's Next,Drake,68,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\What's Next.mp3
+Famous Friends,Chris Young + Kane Brown,69,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Famous Friends.mp3
+Lil Bit,Nelly & Florida Georgia Line,70,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Lil Bit.mp3
+Thot Shit,Megan Thee Stallion,71,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Thot Shit.mp3
+Late At Night,Roddy Ricch,72,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Late At Night.mp3
+Kings & Queens,Ava Max,73,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Kings & Queens.mp3
+Anyone,Justin Bieber,74,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Anyone.mp3
+Track Star,Mooski,75,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Track Star.mp3
+Cry Baby,Megan Thee Stallion Featuring DaBaby,77,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Cry Baby.mp3
+All I Want For Christmas Is You,Mariah Carey,78,2021,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\All I Want For Christmas Is You.mp3
+No More Parties,Coi Leray Featuring Lil Durk,79,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\No More Parties.mp3
+What's Your Country Song,Thomas Rhett,80,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\What's Your Country Song.mp3
+One Too Many,Keith Urban Duet With P!nk,81,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\One Too Many.mp3
+Arcade,Duncan Laurence,82,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Arcade.mp3
+Yonaguni,Bad Bunny,83,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Yonaguni.mp3
+Good Time,Niko Moon,84,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Good Time.mp3
+If I Didn't Love You,Jason Aldean & Carrie Underwood,85,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\If I Didn't Love You.mp3
+Knife Talk,Drake Featuring 21 Savage & Project Pat,86,2021,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Knife Talk.mp3
+pov,Ariana Grande,87,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\pov.mp3
+Just The Way,Parmalee x Blanco Brown,88,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Just The Way.mp3
+Take My Breath,The Weeknd,89,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Take My Breath.mp3
+We're Good,Dua Lipa,90,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\We're Good.mp3
+Hell Of A View,Eric Church,91,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Hell Of A View.mp3
+Rockin' Around The Christmas Tree,Brenda Lee,92,2021,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Rockin' Around The Christmas Tree.mp3
+Put Your Records On,Ritt Momney,93,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Put Your Records On.mp3
+Happier Than Ever,Billie Eilish,94,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Happier Than Ever.mp3
+Single Saturday Night,Cole Swindell,95,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Single Saturday Night.mp3
+Things A Man Oughta Know,Lainey Wilson,96,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Things A Man Oughta Know.mp3
+Throat Baby (Go Baby),BRS Kash,97,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Throat Baby (Go Baby).mp3
+Tombstone,Rod Wave,98,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Tombstone.mp3
+Drinkin' Beer. Talkin' God. Amen.,Chase Rice Featuring Florida Georgia Line,99,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Drinkin' Beer. Talkin' God. Amen..mp3
+Todo de Ti,Rauw Alejandro,100,2021,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Todo de Ti.mp3
+Heat Waves,Glass Animals,1,2022,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Heat Waves.mp3
+As It Was,Harry Styles,2,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\As It Was.mp3
+Stay,The Kid LAROI & Justin Bieber,3,2022,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Stay.mp3
+Easy On Me,Adele,4,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Easy On Me.mp3
+Shivers,Ed Sheeran,5,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Shivers.mp3
+First Class,Jack Harlow,6,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\First Class.mp3
+Big Energy,Latto,7,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Big Energy.mp3
+Ghost,Justin Bieber,8,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Ghost.mp3
+Super Gremlin,Kodak Black,9,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Super Gremlin.mp3
+Cold Heart (PNAU Remix),Elton John & Dua Lipa,10,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Cold Heart (PNAU Remix).mp3
+Wait For U,Future Featuring Drake & Tems,11,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Wait For U.mp3
+About Damn Time,Lizzo,12,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\About Damn Time.mp3
+Bad Habits,Ed Sheeran,13,2022,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Bad Habits.mp3
+Thats What I Want,Lil Nas X,14,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Thats What I Want.mp3
+Enemy,Imagine Dragons X JID,15,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Enemy.mp3
+Industry Baby,Lil Nas X & Jack Harlow,16,2022,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Industry Baby.mp3
+abcdefu,GAYLE,17,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\abcdefu.mp3
+Need To Know,Doja Cat,18,2022,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Need To Know.mp3
+Wasted On You,Morgan Wallen,19,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Wasted On You.mp3
+Me Porto Bonito,Bad Bunny & Chencho Corleone,20,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Me Porto Bonito.mp3
+Woman,Doja Cat,21,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Woman.mp3
+Titi Me Pregunto,Bad Bunny,22,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Titi Me Pregunto.mp3
+Running Up That Hill (A Deal With God),Kate Bush,23,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Running Up That Hill (A Deal With God).mp3
+We Don't Talk About Bruno,"Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",24,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\We Don't Talk About Bruno.mp3
+Late Night Talking,Harry Styles,25,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Late Night Talking.mp3
+I Like You (A Happier Song),Post Malone Featuring Doja Cat,26,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\I Like You (A Happier Song).mp3
+You Proof,Morgan Wallen,27,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\You Proof.mp3
+Bad Habit,Steve Lacy,28,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Bad Habit.mp3
+Sunroof,Nicky Youre & dazy,29,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Sunroof.mp3
+One Right Now,Post Malone & The Weeknd,30,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\One Right Now.mp3
+Good 4 U,Olivia Rodrigo,31,2022,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Good 4 U.mp3
+Numb Little Bug,Em Beihold,32,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Numb Little Bug.mp3
+Jimmy Cooks,Drake Featuring 21 Savage,33,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Jimmy Cooks.mp3
+'Til You Can't,Cody Johnson,34,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\'Til You Can't.mp3
+Fancy Like,Walker Hayes,35,2022,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Fancy Like.mp3
+The Kind Of Love We Make,Luke Combs,36,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\The Kind Of Love We Make.mp3
+I Ain't Worried,OneRepublic,37,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\I Ain't Worried.mp3
+Break My Soul,Beyonce,38,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Break My Soul.mp3
+Something In The Orange,Zach Bryan,39,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Something In The Orange.mp3
+Save Your Tears,The Weeknd & Ariana Grande,40,2022,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Save Your Tears.mp3
+Smokin Out The Window,Silk Sonic (Bruno Mars & Anderson .Paak),41,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Smokin Out The Window.mp3
+Levitating,Dua Lipa,42,2022,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Levitating.mp3
+In A Minute,Lil Baby,43,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\In A Minute.mp3
+Moscow Mule,Bad Bunny,44,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Moscow Mule.mp3
+You Right,Doja Cat & The Weeknd,45,2022,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\You Right.mp3
+She Had Me At Heads Carolina,Cole Swindell,46,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\She Had Me At Heads Carolina.mp3
+Vegas,Doja Cat,47,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Vegas.mp3
+Pushin P,Gunna & Future Featuring Young Thug,48,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Pushin P.mp3
+Buy Dirt,Jordan Davis Featuring Luke Bryan,49,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Buy Dirt.mp3
+I Hate U,SZA,50,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\I Hate U.mp3
+Boyfriend,Dove Cameron,51,2022,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Boyfriend.mp3
+Glimpse Of Us,Joji,52,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Glimpse Of Us.mp3
+Surface Pressure,Jessica Darrow,53,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Surface Pressure.mp3
+Fall In Love,Bailey Zimmerman,54,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Fall In Love.mp3
+Love Nwantiti (Ah Ah Ah),CKay,55,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Love Nwantiti (Ah Ah Ah).mp3
+Super Freaky Girl,Nicki Minaj,56,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Super Freaky Girl.mp3
+Hrs And Hrs,Muni Long,57,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Hrs And Hrs.mp3
+Sand In My Boots,Morgan Wallen,58,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Sand In My Boots.mp3
+MAMIII,Becky G X Karol G,59,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\MAMIII.mp3
+Knife Talk,Drake Featuring 21 Savage & Project Pat,60,2022,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Knife Talk.mp3
+AA,Walker Hayes,61,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\AA.mp3
+Sweetest Pie,Megan Thee Stallion & Dua Lipa,62,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Sweetest Pie.mp3
+Provenza,Karol G,63,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Provenza.mp3
+Essence,Wizkid Featuring Justin Bieber & Tems,64,2022,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Essence.mp3
+All I Want For Christmas Is You,Mariah Carey,65,2022,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\All I Want For Christmas Is You.mp3
+Bam Bam,Camila Cabello Featuring Ed Sheeran,66,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Bam Bam.mp3
+5 Foot 9,Tyler Hubbard,67,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\5 Foot 9.mp3
+Get Into It (Yuh),Doja Cat,68,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Get Into It (Yuh).mp3
+Efecto,Bad Bunny,69,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Efecto.mp3
+Rock And A Hard Place,Bailey Zimmerman,70,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Rock And A Hard Place.mp3
+Doin' This,Luke Combs,71,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Doin' This.mp3
+Oh My God,Adele,72,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Oh My God.mp3
+Better Days,NEIKED X Mae Muller X Polo G,73,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Better Days.mp3
+Meet Me At Our Spot,THE ANXIETY: WILLOW & Tyler Cole,74,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Meet Me At Our Spot.mp3
+Fingers Crossed,Lauren Spencer-Smith,75,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Fingers Crossed.mp3
+All Too Well (Taylor's Version),Taylor Swift,76,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\All Too Well (Taylor's Version).mp3
+Party,Bad Bunny & Rauw Alejandro,77,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Party.mp3
+Despues de La Playa,Bad Bunny,78,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Despues de La Playa.mp3
+You Should Probably Leave,Chris Stapleton,79,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\You Should Probably Leave.mp3
+Rockin' Around The Christmas Tree,Brenda Lee,80,2022,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Rockin' Around The Christmas Tree.mp3
+Broadway Girls,Lil Durk Featuring Morgan Wallen,81,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Broadway Girls.mp3
+Take My Name,Parmalee,82,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Take My Name.mp3
+What Happened To Virgil,Lil Durk Featuring Gunna,83,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\What Happened To Virgil.mp3
+Puffin On Zootiez,Future,84,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Puffin On Zootiez.mp3
+Like I Love Country Music,Kane Brown,85,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Like I Love Country Music.mp3
+Jingle Bell Rock,Bobby Helms,86,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Jingle Bell Rock.mp3
+Ojitos Lindos,Bad Bunny & Bomba Estereo,87,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Ojitos Lindos.mp3
+Trouble With A Heartbreak,Jason Aldean,88,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Trouble With A Heartbreak.mp3
+A Holly Jolly Christmas,Burl Ives,89,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\A Holly Jolly Christmas.mp3
+Kiss Me More,Doja Cat Featuring SZA,90,2022,Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Kiss Me More.mp3
+She Likes It,Russell Dickerson & Jake Scott,91,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\She Likes It.mp3
+Never Say Never,Cole Swindell / Lainey Wilson,92,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Never Say Never.mp3
+Damn Strait,Scotty McCreery,93,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Damn Strait.mp3
+She's All I Wanna Be,Tate McRae,94,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\She's All I Wanna Be.mp3
+Last Night Lonely,Jon Pardi,95,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Last Night Lonely.mp3
+Flower Shops,ERNEST Featuring Morgan Wallen,96,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Flower Shops.mp3
+To The Moon!,JNR CHOI & Sam Tompkins,97,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\To The Moon!.mp3
+Unholy,Sam Smith & Kim Petras,98,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Unholy.mp3
+One Mississippi,Kane Brown,99,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\One Mississippi.mp3
+Circles Around This Town,Maren Morris,100,2022,Not Popular,C:\Users\lenovo\Documents\gitt\major project technolabs 1\Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus\audio_files\Circles Around This Town.mp3
